@@ -1,0 +1,136 @@
+header{
+    padding: 15px 0;
+    margin:0;
+    color: #ffffff ;
+    border-bottom: 1px solid #333333 ;
+    background:#333333 ;
+}
+body{
+    font-family: Arial;
+    font-size: 15px;
+}
+section{
+    background:#eeeeee ;
+    border-bottom: 2px solid #bfbfbf ;
+}
+a{
+    text-decoration: none;
+    color: #1B65B4 ;
+}
+.logotipo {
+    width: 82px;
+    height: 82px;
+}
+.indice{
+    text-decoration: none;
+    padding: 12px 18px;
+    color:#eeeeee ;
+    opacity:1;
+    filter:1;
+}
+div div ul {
+    list-style: none;
+    font-size: 14px;
+    margin: auto;
+    padding-top: 30px;
+    float: right;
+}
+div div li {
+    position: relative;
+    float:left;
+}
+div div li:hover {
+     opacity:0.5;
+   filter:1;
+}
+div div a:hover {
+     opacity: 0.5;
+   filter: 1;
+}
+h2{
+    margin-top:15px;
+    margin-left:20px;
+}
+.more-episodes{
+    text-decoration: none;
+    color:#1b65b9 ;
+    font-size: 14px;
+    padding-left: 10px;
+    float:right;
+    margin-right: 625px;
+    margin-top: 5px;
+}
+.margen{
+    text-align: center;
+    margin-top: 15px;
+}
+.margen a{
+    font-weight: bold;
+}
+.margen img{
+    width: 220px;
+    height: 220px;
+    border: 2.5px solid white;
+}
+.name-last:hover{
+     opacity: 0.5;
+   filter: 1;
+}
+
+/*Acá empieza el content*/
+
+.caja{
+    margin-left: 100px;
+    margin-top: 30px;
+ }
+
+ .pelicula{
+    display: inline-block;
+    margin: 40px;
+    position: relative;
+    width: 50px;
+    height: 50px;
+ }
+ .nombres{
+    color: #1B65B4 ;
+    font-size: 12px;
+    display: inline-block;
+ }
+
+
+
+
+
+
+/*Aca empieza el footer*/
+
+footer{
+    background:#585858 ;
+    padding: 15px 0px;
+    margin: auto;
+    border-bottom: 1px solid #333333 ;
+    color: #ffffff ;
+    font-size: 14px;
+}
+footer .container{
+    padding: 15px 15px;
+}
+footer ul{
+    list-style-type: none;
+    text-align: center;
+}
+footer ul li{
+    display: inline;
+    margin-right: 45px;
+}
+footer a{
+    color: #BDBDC5 ;
+}
+footer a:hover{
+    text-decoration: underline;
+}
+.copyright{
+    color:#8F908C ;
+    text-align: center;
+    margin-top:55px;
+}
